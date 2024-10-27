@@ -28,8 +28,8 @@
     cursor: pointer;
     background: transparent;
     color: red;
-    width: 56px;
-    height: 56px;
+    background-color: rgba(192, 104, 21, 0.719);
+    border-radius: 50%;
   }
   
   .prev {
